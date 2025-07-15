@@ -1,0 +1,37 @@
+{
+    "avatarSize": 800,
+    "initialImage": {
+        "webp": "https://tech-melon.github.io/wangchai-avatar-frame/img/user.jpg",
+        "legacy": "https://tech-melon.github.io/wangchai-avatar-frame/img/user.png"
+    },
+    "templates": [
+        {
+            "src": {
+                "webp": "./img/facai/facai_1200.jpg",
+                "legacy": "./img/facai/facai_1000.png"
+            },
+            "preview": {
+                "webp": "./img/facai/facai_200.jpg",
+                "legacy": "./img/facai/facai_200.png"
+            },
+            "example": {
+                "webp": "./img/facai/facai_200_ex.jpg",
+                "legacy": "./img/facai/facai_200_ex.png"
+            }
+        },
+        {
+            "src": {
+                "webp": "https://tech-melon.github.io/wangchai-avatar-frame/img/wechatdoge.jpg",
+                "legacy": "https://tech-melon.github.io/wangchai-avatar-frame/img/wechatdoge.png"
+            },
+            "preview": {
+                "webp": "https://tech-melon.github.io/wangchai-avatar-frame/img/wechatdoge-preview.jpg",
+                "legacy": "https://tech-melon.github.io/wangchai-avatar-frame/img/wechatdoge-preview.png"
+            },
+            "example": {
+                "webp": "https://tech-melon.github.io/wangchai-avatar-frame/img/wechatdoge-example.jpg",
+                "legacy": "https://tech-melon.github.io/wangchai-avatar-frame/img/wechatdoge-example.png"
+            }
+        }
+    ]
+}
